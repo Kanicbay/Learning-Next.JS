@@ -1,2 +1,2 @@
 # Learning-Next.JS
-Repository for learning Next.JS 15
+Repositorio para aprendizaje de Next.JS 15 como Framework de Desarrollo Web usando React
